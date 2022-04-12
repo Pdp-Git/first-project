@@ -1,9 +1,0 @@
-Kutubxona
-1 ) kutubxonaning bo’limlari mavjud.
-2 ) shu bo’limga qarashli kitoblar. to’plami bor.
-3 ) Kitobning nomi, yozuvchisi, ishlab chiqarilgan 
-yili va sahifalar soni haqida malumotlari bor.
-
-Dastur admini kitoblarni qoshishi yoki o’chirishi mumkin. 
-Admin kitoblarni qo’shgani yoki o’chirganligi 
-haqida umumiy log yozib boriladi.
